@@ -1,4 +1,5 @@
 # Simple App for SpaceX Launches information 
-## using SpaceX API, React, GraphQL, Apollo
-### deployed for testing @ heroku:
+### used: SpaceX API, React, GraphQL, Apollo
+
+deploy @ heroku:
 https://hidden-waters-45646.herokuapp.com/
